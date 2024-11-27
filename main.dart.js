@@ -42640,7 +42640,7 @@ o=(o==null?$.ao=B.v:o).bx(0,q,s).CW.gl(0)}else o=q
 r=$.ao
 s=(r==null?$.ao=B.v:r).bx(0,q,s).dy
 r=A.a3(s).h("a6<1,eT<f>>")
-return new A.k9(A.am_(B.UG,B.aJ,!0,A.a1(new A.a6(s,new A.a45(),r),!0,r.h("as.E")),new A.a46(p),new A.a47(p),B.fl,o,t.N),q)},
+return new A.k9(A.am_(B.UH,B.aJ,!0,A.a1(new A.a6(s,new A.a45(),r),!0,r.h("as.E")),new A.a46(p),new A.a47(p),B.fl,o,t.N),q)},
 $S:80}
 A.a45.prototype={
 $1(a){var s=null
@@ -42845,7 +42845,7 @@ if(o==null)o=$.ao=B.v
 s=A.p(p).h("cb.T")
 o=o.bx(0,q,s).db.gl(0)?B.bj:B.Lk
 r=$.ao
-return A.fq(q,A.rN(A.a([A.aqr(o,"pause",A.hh((r==null?$.ao=B.v:r).bx(0,q,s).db.gl(0)?"Pause":"Resume",q,q,q,B.xA,q,q),new A.a4n(p)),B.ff,A.aqr(B.Lj,"stop",B.UH,new A.a4o(p))],t.F),B.ar,B.re,B.aZ),B.u,B.DT,q,q,q,q,q,B.Gb,q)},
+return A.fq(q,A.rN(A.a([A.aqr(o,"pause",A.hh((r==null?$.ao=B.v:r).bx(0,q,s).db.gl(0)?"PAUSE":"RESUME",q,q,q,B.xA,q,q),new A.a4n(p)),B.ff,A.aqr(B.Lj,"stop",B.UG,new A.a4o(p))],t.F),B.ar,B.re,B.aZ),B.u,B.DT,q,q,q,q,q,B.Gb,q)},
 $S:316}
 A.a4n.prototype={
 $0(){var s,r,q=$.ao
@@ -82947,8 +82947,8 @@ B.UB=new A.fc("  Select Level",null,B.jr,B.b3,null,null,null,null,null)
 B.UC=new A.fc("  Practice Time",null,B.jr,B.b3,null,null,null,null,null)
 B.SL=new A.o(!0,B.aJ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.UD=new A.fc("By My Music Buddies LLC",null,B.SL,null,null,null,null,null,null)
-B.UG=new A.fc("  Display Duration",null,B.jr,B.b3,null,null,null,null,null)
-B.UH=new A.fc("Stop",null,B.xA,null,null,null,null,null,null)
+B.UG=new A.fc("STOP",null,B.xA,null,null,null,null,null,null)
+B.UH=new A.fc("  Display Duration",null,B.jr,B.b3,null,null,null,null,null)
 B.S3=new A.o(!0,B.bj,null,"FunnyKid",null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.xC=new A.fc("My Flute Buddy",null,B.S3,null,null,null,null,null,null)
 B.SS=new A.o(!0,B.bj,null,"FunnyKid",null,null,28,B.j,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
