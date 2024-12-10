@@ -43076,7 +43076,7 @@ p.toString
 A.hX(p).toString
 p=r.d
 if(p==null){p=self.window.devicePixelRatio
-if(p===0)p=1}q=A.xm("assets/images/girl_play_flute.png",B.e_,s.ck(0,p).b*0.33,q.a)
+if(p===0)p=1}q=A.xm("assets/images/girl_play_flute.png",B.e_,s.ck(0,p).b*0.3,q.a)
 p=$.ct().xr
 p=$.aj.I$.z.i(0,p)
 p.toString
